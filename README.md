@@ -21,9 +21,10 @@
 
 <br>
 <div align="center">
-  <img  height=200  src="./bananaDancante.gif">
+  <img  height=350  src="./f1Ferrari.gif">
 </div>
-
+<br>
+<hr>
 <br>
 
 <div align="center">
